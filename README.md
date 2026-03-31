@@ -448,6 +448,7 @@ Every run produces a quality report. This makes it easy to spot problems (gaps, 
 
 ## Known Limitations
 
+- **Visual-audio alignment from disjoint stages** - The biggest tradeoff of a multi-stage pipeline is that visual analysis (Gemini) and audio transcription (Whisper) run independently. Audio aligns to shots reliably by timestamp overlap, but visual descriptions are matched by array position within each batch. If Gemini merges, skips, or reorders shots in its response, visual descriptions can end up attached to the wrong shots — while the audio for those shots remains correct. We mitigate this with shot_index reordering, count validation, and per-shot retry fallbacks, but it's an inherent tension between the accuracy gains of specialized stages and the coherence of a single-pass approach.
 - **Dissolves and wipes** — PySceneDetect is weaker on gradual transitions. The adaptive detector helps but misses some.
 - **Music lyrics** — Whisper handles speech well but music lyrics with heavy beats can be noisy or hallucinated.
 - **Graphics-heavy content** — Rapid motion graphics (countdowns, VFX flashes) can trigger false cuts in scene detection.
