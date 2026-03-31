@@ -1,0 +1,125 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       37
+  Duration covered:  47.5s
+  Video duration:    47.4s
+  Coverage:          100.1%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=1.28s  median=0.97s  min=0.267s  max=7.70s
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        23 ███████████████████████
+    handheld                       3 ███
+    tracking                       3 ███
+    pan                            2 ██
+    push in / dolly in             2 ██
+    other: varies                  2 ██
+    other: animated graphic        1 █
+    zoom                           1 █
+
+  Movement variety: 8 distinct types
+  WARNING: 62.2% shots labeled static — likely over-reported
+
+  Shot type distribution:
+    medium shot                   10
+    wide shot                      5
+    n/a                            5
+    extreme close-up               3
+    close-up                       3
+    extreme wide shot              3
+    multiple                       3
+    abstract                       1
+    point-of-view                  1
+    medium shot to close-up        1
+    medium close-up                1
+    medium wide shot               1
+
+  Angle distribution:
+    eye-level                     22
+    n/a                            5
+    high angle                     5
+    low angle                      3
+    multiple                       2
+
+  Composition detail: avg 31.4 words/shot
+
+  STATIC SHOTS TO SPOT-CHECK (23 total — are these really static?):
+    Shot 1 at 00:00.000 (2.57s): A man in a blue shirt and dark pants walks away from a vintage white car on a di...
+    Shot 2 at 00:02.569 (0.37s): An extreme close-up of a person's blue eye. The surrounding skin is wrinkled and...
+    Shot 4 at 00:03.203 (1.97s): Shot from behind a man in a dark suit sitting at a desk with two open laptops. H...
+    Shot 5 at 00:05.171 (1.97s): Grainy, archival footage of a boxing match. One boxer in red shorts relentlessly...
+    Shot 7 at 00:07.505 (0.80s): An aerial night shot of a city. The lights flicker on, illuminating the grid of ...
+    Shot 9 at 00:09.539 (0.60s): A female BBC news anchor with blonde hair, wearing a red dress, sits at a news d...
+    Shot 10 at 00:10.139 (1.10s): A news segment from 'Closing Bell' is shown in a three-way split-screen. Three m...
+    Shot 11 at 00:11.239 (0.67s): Reporter Rick Santelli stands on a trading floor, holding up a physical, gold-co...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    35/37 (94.6%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 1 at 00:00.000 (2.57s, 4.3 words/sec): "Voiceover: "The future is not some place we are going to,""
+    Shot 3 at 00:02.936 (0.27s, 11.2 words/sec): "Whoosh sound effect."
+    Shot 7 at 00:07.505 (0.80s, 5.0 words/sec): "Voiceover: "...on which universe...""
+    Shot 9 at 00:09.539 (0.60s, 5.0 words/sec): "Indistinct anchor voice."
+    Shot 10 at 00:10.139 (1.10s, 5.5 words/sec): "Man's voice: "Bitcoin. I would never...""
+
+  ALL AUDIO (skim for accuracy):
+    [00:00.000 - 00:02.569] Voiceover: "The future is not some place we are going to,"
+    [00:02.936 - 00:03.203] Whoosh sound effect.
+    [00:03.203 - 00:05.171] Voiceover: "...but one we are creating."
+    [00:05.171 - 00:07.138] Voiceover: "Every decision is a bet..."
+    [00:07.505 - 00:08.305] Voiceover: "...on which universe..."
+    [00:08.305 - 00:09.539] Voiceover: "...becomes real."
+    [00:09.539 - 00:10.139] Indistinct anchor voice.
+    [00:10.139 - 00:11.239] Man's voice: "Bitcoin. I would never..."
+    [00:11.239 - 00:11.906] Voiceover: "trust this. The future..."
+    [00:11.906 - 00:12.639] Voiceover: "...of internet markets..."
+    [00:12.639 - 00:13.439] Digital ticking sound effects.
+    [00:13.439 - 00:14.006] Voiceover: "...is a place..."
+    [00:14.006 - 00:14.506] News alert sound effect.
+    [00:14.506 - 00:15.139] Voiceover: "...where you can capitalize..."
+    [00:15.139 - 00:16.106] Voiceover: "...on any outcome."
+    [00:16.106 - 00:17.039] Loud explosive sound effect.
+    [00:17.039 - 00:18.006] Voiceover: "Any prediction."
+    [00:18.006 - 00:19.839] Voiceover: "...from anywhere in the world."
+    [00:19.839 - 00:21.273] Muted, ambient space sounds.
+    [00:21.273 - 00:21.806] Voiceover: "The greatest..."
+    [00:21.806 - 00:22.506] Voiceover: "fortunes..." Party sounds and cheering.
+    [00:22.506 - 00:23.740] Voiceover: "...weren't built on certainty."
+    [00:23.740 - 00:24.940] Jerome Powell: "Good afternoon."
+    [00:24.940 - 00:25.806] Voiceover: "They were built on conviction."
+    [00:25.806 - 00:26.973] Indistinct anchor chatter.
+    [00:26.973 - 00:28.173] Loud rocket ignition and rumble sounds.
+    [00:28.173 - 00:29.340] Voiceover (archival): "...the tower has cleared."
+    [00:29.340 - 00:30.140] Voiceover: "...from all over the world."
+    [00:30.140 - 00:30.906] Crowd cheering.
+    [00:30.906 - 00:32.073] Crowd roaring.
+    [00:32.073 - 00:33.240] Voiceover: "...Liverpool."
+    [00:33.240 - 00:34.140] Shouting and crowd noise.
+    [00:34.140 - 00:41.840] Donald Trump: "Look what happened." Intense music and sound effects build throughout. Voic...
+    [00:41.840 - 00:44.840] Voiceover: "...hasn't happened yet." Music swells and fades.
+    [00:44.840 - 00:47.478] Final electronic sound effect.
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: {'angle': 5, 'lens': 5, 'shotType': 5, 'focus': 4}
+  Empty values:   none
+  Shots with graphics overlays: 16

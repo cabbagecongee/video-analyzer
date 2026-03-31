@@ -1,0 +1,191 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       101
+  Duration covered:  300.7s
+  Video duration:    300.7s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=2.98s  median=2.50s  min=0.667s  max=11.83s
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        66 ████████████████████████████████████████
+    tracking                      12 ████████████
+    handheld                       8 ████████
+    pan                            6 ██████
+    zoom                           4 ████
+    pull out / dolly back          3 ███
+    push in / dolly in             2 ██
+
+  Movement variety: 7 distinct types
+  WARNING: 65.3% shots labeled static — likely over-reported
+
+  Shot type distribution:
+    medium shot                   35
+    wide shot                     31
+    close-up                       9
+    extreme wide shot              7
+    extreme close-up               6
+    point of view                  5
+    various                        4
+    medium close-up                3
+    full screen graphic            1
+
+  Angle distribution:
+    eye-level                     70
+    low angle                     13
+    high angle                     9
+    various                        4
+    over the shoulder              2
+    bird's eye                     1
+    low angle (worm's eye)         1
+    dutch                          1
+
+  Composition detail: avg 33.9 words/shot
+
+  STATIC SHOTS TO SPOT-CHECK (66 total — are these really static?):
+    Shot 2 at 00:03.366 (9.87s): Brian Baumgartner sits at his desk, still playing the video game with intense fo...
+    Shot 3 at 00:13.233 (1.40s): This is a close-up shot of an office phone's digital display. The green screen s...
+    Shot 4 at 00:14.633 (1.57s): A tight shot on Brian Baumgartner's face as he answers the phone. He quickly shi...
+    Shot 5 at 00:16.200 (4.70s): Returning to the medium shot, Brian is on the phone, leaning back in his chair w...
+    Shot 6 at 00:20.900 (1.30s): A point-of-view shot from inside the office, looking out through the blinds into...
+    Shot 7 at 00:22.200 (5.57s): Back on Brian, who is now laughing heartily while still on the phone, clearly pr...
+    Shot 8 at 00:27.766 (5.43s): A close-up on Brian's face. He sighs in relief after the call, then his expressi...
+    Shot 9 at 00:33.200 (3.83s): In a full circle moment, Brian is back at his desk, headset on, and picking up t...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    101/101 (100.0%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 6 at 00:20.900 (1.30s, 6.9 words/sec): "Man (V.O.): "Nobody has left their desk all day.""
+    Shot 16 at 00:58.266 (0.77s, 5.2 words/sec): "[Music continues, crowd cheering]"
+    Shot 29 at 01:36.433 (0.97s, 4.1 words/sec): "[Music continues, whoosh SFX]"
+
+  ALL AUDIO (skim for accuracy):
+    [00:00.000 - 00:03.366] [Upbeat hip-hop music starts]
+Man: "...just step on 'em."
+    [00:03.366 - 00:13.233] Man: "They're on me! I'm getting cooked. Check my six! Check my six! [Frustrated noises] F...
+    [00:13.233 - 00:14.633] [Phone ringing]
+    [00:14.633 - 00:16.200] Man: "Hello?"
+    [00:16.200 - 00:20.900] Man: "No, no, no, no, no, everything's good here. Everybody is working, working, working h...
+    [00:20.900 - 00:22.200] Man (V.O.): "Nobody has left their desk all day."
+    [00:22.200 - 00:27.766] Man: "I've been keeping an eye on 'em. [Laughs] Thank you. Thank you, sir. [Hangs up phone...
+    [00:27.766 - 00:33.200] [Sigh of relief]
+    [00:33.200 - 00:37.033] [Upbeat hip-hop music resumes]
+Man: "Just step on 'em... Alright, I'm back in."
+    [00:37.033 - 00:41.000] [Music continues with lyrics]
+    [00:41.000 - 00:46.033] [Music continues with lyrics]
+    [00:46.033 - 00:51.900] [Music continues with lyrics]
+    [00:51.900 - 00:54.000] [Music continues with lyrics]
+    [00:54.000 - 00:57.266] [Music continues with lyrics and crowd cheering SFX]
+    [00:57.266 - 00:58.266] [Music continues, crowd cheering]
+    [00:58.266 - 00:59.033] [Music continues, crowd cheering]
+    [00:59.033 - 01:03.000] [Music continues, ball hitting table SFX, crowd cheering]
+    [01:03.000 - 01:04.166] [Music continues, crowd cheering]
+    [01:04.166 - 01:06.400] [Music continues, whoosh SFX]
+    [01:06.400 - 01:11.766] [Drake rapping]
+    [01:11.766 - 01:16.033] [Music continues, crowd cheering]
+    [01:16.033 - 01:21.033] [Music continues, whoosh SFX]
+    [01:21.033 - 01:23.633] [Music continues]
+    [01:23.633 - 01:26.233] [Music continues, slow-motion whoosh SFX]
+    [01:26.233 - 01:29.133] [Music continues]
+    [01:29.133 - 01:31.066] [Music continues]
+    [01:31.066 - 01:33.700] [Music continues, crowd shouting]
+    [01:33.700 - 01:36.433] [Music continues, crowd shouting]
+    [01:36.433 - 01:37.400] [Music continues, whoosh SFX]
+    [01:37.400 - 01:41.000] [J. Cole rapping]
+    [01:41.000 - 01:43.166] [J. Cole rapping]
+    [01:43.166 - 01:45.300] [J. Cole rapping]
+    [01:45.300 - 01:47.000] [J. Cole rapping]
+    [01:47.000 - 01:49.000] [J. Cole rapping]
+    [01:49.000 - 01:51.866] [J. Cole rapping]
+    [01:51.866 - 01:53.900] [J. Cole rapping, dramatic shattering SFX]
+    [01:53.900 - 01:55.200] [J. Cole rapping]
+    [01:55.200 - 02:07.033] [Music continues with sports broadcast style voiceover and sound effects]
+    [02:07.033 - 02:08.500] [Music continues, whoosh SFX]
+    [02:08.500 - 02:13.433] [J. Cole rapping, crowd SFX]
+    [02:13.433 - 02:15.100] [J. Cole rapping]
+    [02:15.100 - 02:16.833] [Music continues, whoosh SFX]
+    [02:16.833 - 02:19.466] [J. Cole rapping]
+    [02:19.466 - 02:21.466] [J. Cole rapping]
+    [02:21.466 - 02:23.533] [J. Cole rapping]
+    [02:23.533 - 02:25.833] [J. Cole rapping]
+    [02:25.833 - 02:28.533] [J. Cole rapping]
+    [02:28.533 - 02:32.400] [Music continues, basketball swish SFX, crowd cheering]
+    [02:32.400 - 02:36.566] [Music continues, crowd cheering]
+    [02:36.566 - 02:40.033] [Drake rapping, web shooting SFX]
+    [02:40.033 - 02:42.100] [Drake rapping]
+    [02:42.100 - 02:45.300] [Drake rapping]
+    [02:45.300 - 02:48.866] [Drake rapping, whoosh SFX]
+    [02:48.866 - 02:51.633] [Music continues, spacey sound effects]
+    [02:51.633 - 02:54.000] [Music continues, re-entry SFX]
+    [02:54.000 - 02:57.633] [Explosion and shattering glass SFX]
+    [02:57.633 - 02:58.733] [Pyrotechnic explosion SFX]
+    [02:58.733 - 03:00.266] [Ominous music]
+    [03:00.266 - 03:05.100] [Fire crackling, electrical flickering SFX]
+    [03:05.100 - 03:11.366] [Music with lyrics: "I'm 'bout to..."]
+    [03:11.366 - 03:14.633] [Music continues]
+    [03:14.633 - 03:20.633] [Drake rapping]
+    [03:20.633 - 03:21.300] [Drake rapping]
+    [03:21.300 - 03:23.100] [Drake rapping]
+    [03:23.100 - 03:24.000] [Drake rapping]
+    [03:24.000 - 03:25.566] [Drake rapping]
+    [03:25.566 - 03:27.033] [Drake rapping]
+    [03:27.033 - 03:28.533] [Drake rapping]
+    [03:28.533 - 03:29.933] [Drake rapping]
+    [03:29.933 - 03:32.400] [Drake rapping]
+    [03:32.400 - 03:33.433] [Subway train SFX]
+    [03:33.433 - 03:35.433] [Music continues]
+    [03:35.433 - 03:37.400] [Music continues]
+    [03:37.400 - 03:39.066] [Drake rapping]
+    [03:39.066 - 03:42.266] Drake (V.O.): "Nadine, Christine, Justine, Kathleen..."
+    [03:42.266 - 03:44.800] [Drake rapping]
+    [03:44.800 - 03:46.866] [Drake rapping]
+    [03:46.866 - 03:48.066] [Button click SFX]
+    [03:48.066 - 03:50.000] [Mechanical whirring and grinding SFX]
+    [03:50.000 - 03:51.366] [Subway SFX]
+    [03:51.366 - 03:52.900] [Drake rapping]
+    [03:52.900 - 03:55.766] [Drake rapping]
+    [03:55.766 - 03:57.900] [Crowd shouting SFX]
+    [03:57.900 - 03:59.200] [Subway arrival SFX]
+    [03:59.200 - 04:02.000] [Drake rapping]
+    [04:02.000 - 04:03.966] [Drake rapping]
+    [04:03.966 - 04:05.133] [Crowd shouting SFX]
+    [04:05.133 - 04:06.133] [Dogs barking, music continues]
+    [04:06.133 - 04:07.033] [Crowd shouting]
+    [04:07.033 - 04:13.000] [Drake rapping]
+    [04:13.000 - 04:16.800] [Drake rapping]
+    [04:16.800 - 04:22.966] [Drake rapping]
+    [04:22.966 - 04:25.800] [Drake rapping]
+    [04:25.800 - 04:28.800] [Music continues, crowd cheering]
+    [04:28.800 - 04:32.400] [Music continues]
+    [04:32.400 - 04:37.033] [Music continues, crowd cheering]
+    [04:37.033 - 04:42.500] [Music continues, helicopter/drone SFX]
+    [04:42.500 - 04:44.933] [Music continues, crowd cheering]
+    [04:44.933 - 04:47.433] [Music continues]
+    [04:47.433 - 04:56.200] [Music continues]
+    [04:56.200 - 05:00.655] [Music fades out]
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: {'lens': 1, 'focus': 1}
+  Empty values:   none
+  Shots with graphics overlays: 15
+

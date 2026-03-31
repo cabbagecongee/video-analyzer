@@ -1,0 +1,246 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       183
+  Duration covered:  300.7s
+  Video duration:    300.7s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=1.64s  median=1.08s  min=0.025s  max=23.61s
+
+  LIKELY MISSED CUTS (shots >15s — verify these have no internal edits):
+    Shot 9 at 00:33.626 (23.6s)
+
+  LIKELY FALSE CUTS (shots <80ms — probably not real shots):
+    Shot 101 at 03:10.382 (25ms)
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        70 ████████████████████████████████████████
+    push in / dolly in            36 ████████████████████████████████████
+    handheld                      31 ███████████████████████████████
+    pan                           25 █████████████████████████
+    pull out / dolly back          6 ██████
+    tracking                       6 ██████
+    tilt                           4 ████
+    other: the camera drifts slightly to    1 █
+    other: the camera moves forward smoot   1 █
+    other: data unavailable: shot not pre   1 █
+    other: the camera has a subtle, sligh   1 █
+    steadicam                      1 █
+
+  Movement variety: 12 distinct types
+
+  Shot type distribution:
+    medium                        40
+    wide                          38
+    close-up                      22
+    medium close-up               22
+    extreme close-up              17
+    medium wide                   12
+    extreme wide                  10
+    medium shot                    8
+    wide shot                      8
+    extreme wide shot              3
+    insert                         1
+    medium wide shot               1
+    data unavailable: shot not present in the provided video clip.   1
+
+  Angle distribution:
+    eye-level                    125
+    low angle                     33
+    high angle                     7
+    over-the-shoulder              7
+    bird's eye                     5
+    worm's eye                     2
+    slight high angle              1
+    data unavailable: shot not present in the provided video clip.   1
+    slightly high angle            1
+    pov                            1
+
+  Composition detail: avg 74.4 words/shot
+
+  STATIC SHOTS TO SPOT-CHECK (70 total — are these really static?):
+    Shot 2 at 00:03.762 (9.93s): This is a medium shot of a man, Brian Baumgartner, sitting at his desk. He is we...
+    Shot 3 at 00:13.689 (1.00s): This is an insert shot focusing on the green, pixelated screen of a black office...
+    Shot 5 at 00:16.233 (4.71s): The man is shown from the waist up, sitting behind a cluttered desk in an office...
+    Shot 6 at 00:20.946 (1.25s): The shot is framed through a set of vertical blinds, creating a voyeuristic poin...
+    Shot 10 at 00:57.233 (1.17s): The shot is framed from behind a man with cornrows, whose head and shoulders are...
+    Shot 14 at 01:04.531 (0.75s): A muscular, bearded man stands centered in the frame with a serious and intense ...
+    Shot 15 at 01:05.282 (1.25s): This shot begins with the same composition as the previous one, featuring the ma...
+    Shot 17 at 01:09.119 (0.96s): The shot is framed from the side of the ping pong table, focusing on Drake's opp...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    136/183 (74.3%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 6 at 00:20.946 (1.25s, 4.8 words/sec): "VO/Dialogue: "left their deaths all day.""
+    Shot 14 at 01:04.531 (0.75s, 5.3 words/sec): "VO/Dialogue: "the Super Bowl""
+    Shot 16 at 01:06.533 (2.59s, 4.6 words/sec): "VO/Dialogue: "your two guys playing shit that they did in the studio,""
+    Shot 18 at 01:10.079 (1.00s, 6.0 words/sec): "VO/Dialogue: "sent a verses back to""
+    Shot 19 at 01:11.080 (0.99s, 6.1 words/sec): "VO/Dialogue: "me and they be terrible""
+
+  POSSIBLE AUDIO DUMPS (>30 words in one shot — VO lumped together?):
+    Shot 9 at 00:33.626 (86 words): "VO/Dialogue: "The first part is shootin' a mole. Returning a song and we'll fuel the road. So the niggas just say they d..."
+    Shot 54 at 02:00.838 (36 words): "VO/Dialogue: "love when they argue, it all hard as I'm see, is it Kate Dott, is it Abba, ya me, read a big three like we..."
+
+  ALL AUDIO (skim for accuracy):
+    [00:03.762 - 00:13.689] VO/Dialogue: "You're on me. I'm getting cooked. Check my six. Check my six! Fuck!"
+    [00:13.689 - 00:14.690] VO/Dialogue: "Hello?"
+    [00:14.690 - 00:16.233] VO/Dialogue: "No,"
+    [00:16.233 - 00:20.946] VO/Dialogue: "no, no, no. Everything's good here. Everybody's working, working hard. Nobod...
+    [00:20.946 - 00:22.198] VO/Dialogue: "left their deaths all day."
+    [00:22.198 - 00:24.825] VO/Dialogue: "I've been keeping an eye on them."
+    [00:24.825 - 00:33.626] VO/Dialogue: "Thank you. Thank you, sir."
+    [00:33.626 - 00:57.233] VO/Dialogue: "The first part is shootin' a mole. Returning a song and we'll fuel the road....
+    [00:57.233 - 00:58.400] VO/Dialogue: "biggest"
+    [00:58.400 - 00:59.360] VO/Dialogue: "the white,"
+    [00:59.360 - 01:00.444] VO/Dialogue: "biggest"
+    [01:00.444 - 01:04.531] VO/Dialogue: "the white, biggest the white, biggest"
+    [01:04.531 - 01:05.282] VO/Dialogue: "the Super Bowl"
+    [01:05.282 - 01:06.533] VO/Dialogue: "but the differences is"
+    [01:06.533 - 01:09.119] VO/Dialogue: "your two guys playing shit that they did in the studio,"
+    [01:09.119 - 01:10.079] VO/Dialogue: "Niggas, UG"
+    [01:10.079 - 01:11.080] VO/Dialogue: "sent a verses back to"
+    [01:11.080 - 01:12.071] VO/Dialogue: "me and they be terrible"
+    [01:12.071 - 01:12.305] VO/Dialogue: "just"
+    [01:12.305 - 01:12.631] VO/Dialogue: "like a"
+    [01:12.631 - 01:13.790] VO/Dialogue: "two year old. I love"
+    [01:13.923 - 01:14.599] VO/Dialogue: "a dinner with some"
+    [01:14.599 - 01:15.375] VO/Dialogue: "farm women when"
+    [01:15.375 - 01:16.043] VO/Dialogue: "they start debating"
+    [01:16.043 - 01:17.503] VO/Dialogue: "about who to go, and I'm"
+    [01:17.503 - 01:17.920] VO/Dialogue: "gonna"
+    [01:17.920 - 01:18.420] VO/Dialogue: "say"
+    [01:18.796 - 01:19.338] VO/Dialogue: "it then,"
+    [01:19.338 - 01:20.047] VO/Dialogue: "who to go,"
+    [01:20.047 - 01:22.716] VO/Dialogue: "who to go, who to go, who to go, who"
+    [01:22.716 - 01:24.050] VO/Dialogue: "to go, who to go, who to go. Who you bitch"
+    [01:24.050 - 01:26.512] VO/Dialogue: "is really rooting for like a kid that had a bad room,"
+    [01:26.512 - 01:28.973] VO/Dialogue: "J ain't wearing it, and no feminine, it's just who to call,"
+    [01:28.973 - 01:29.848] VO/Dialogue: "biggest"
+    [01:29.848 - 01:30.557] VO/Dialogue: "the white,"
+    [01:30.557 - 01:31.809] VO/Dialogue: "biggest"
+    [01:31.809 - 01:32.576] VO/Dialogue: "the white,"
+    [01:32.576 - 01:33.519] VO/Dialogue: "biggest"
+    [01:33.519 - 01:34.353] VO/Dialogue: "the"
+    [01:34.353 - 01:37.356] VO/Dialogue: "white, biggest the Super Bowl."
+    [01:37.356 - 01:40.901] VO/Dialogue: "Niggas on Thursday that put me in beef, got set in my words and start lookin...
+    [01:40.901 - 01:42.861] VO/Dialogue: "I look at the tweets that start sucking my teeth,"
+    [01:42.861 - 01:44.947] VO/Dialogue: "I'm letting it rot cause I let him a stick,"
+    [01:44.947 - 01:46.949] VO/Dialogue: "I still wanna give me a song, why be,"
+    [01:46.949 - 01:48.867] VO/Dialogue: "can't trust that, that you saw on our cheek,"
+    [01:48.867 - 01:51.996] VO/Dialogue: "just know if I did shoot, I make sure you know that I hit you like I'm on yo...
+    [01:51.996 - 01:54.039] VO/Dialogue: "collar, I deem, I'm aiming to out on the"
+    [01:54.039 - 01:54.999] VO/Dialogue: "fall off, it's pretty, I"
+    [01:54.999 - 01:59.837] VO/Dialogue: "run and consider it, don't follow for me, still in this bitch getting bigger...
+    [01:59.837 - 02:00.838] VO/Dialogue: "father to be,"
+    [02:00.838 - 02:07.802] VO/Dialogue: "love when they argue, it all hard as I'm see, is it Kate Dott, is it Abba, y...
+    [02:07.802 - 02:08.436] VO/Dialogue: "homadah leave,"
+    [02:08.436 - 02:10.431] VO/Dialogue: "yeah,"
+    [02:10.848 - 02:12.850] VO/Dialogue: "my homadah leave, I wonder"
+    [02:12.850 - 02:13.309] VO/Dialogue: "they call"
+    [02:13.309 - 02:13.767] VO/Dialogue: "me, and shit"
+    [02:13.767 - 02:14.476] VO/Dialogue: "and connect and"
+    [02:14.476 - 02:15.102] VO/Dialogue: "no more, feel like"
+    [02:15.102 - 02:15.835] VO/Dialogue: "I got a job"
+    [02:15.835 - 02:16.420] VO/Dialogue: "and I teed,"
+    [02:16.420 - 02:21.775] VO/Dialogue: "rhyme with me is the biggest mistake, despite the man meme, it's me lookin' ...
+    [02:21.775 - 02:23.777] VO/Dialogue: "to be demon, because we got him attaining"
+    [02:23.777 - 02:25.946] VO/Dialogue: "a weight, hey how the gang got away"
+    [02:25.946 - 02:28.365] VO/Dialogue: "from the boss man, it shit like a prison escape,"
+    [02:28.365 - 02:29.700] VO/Dialogue: "everybody step as we're fuckin'"
+    [02:29.700 - 02:30.784] VO/Dialogue: "and everybody breath for some"
+    [02:30.784 - 02:31.327] VO/Dialogue: "number to"
+    [02:31.327 - 02:32.619] VO/Dialogue: "clear, complete,"
+    [02:32.619 - 02:33.871] VO/Dialogue: "when"
+    [02:33.871 - 02:35.998] VO/Dialogue: "I show up it's motion picture, black bust"
+    [02:35.998 - 02:37.041] VO/Dialogue: "that I go with the gold,"
+    [02:37.041 - 02:39.084] VO/Dialogue: "that pin the top toucher, the spot rusher,"
+    [02:39.084 - 02:39.918] VO/Dialogue: "straight it's whole"
+    [02:39.918 - 02:41.503] VO/Dialogue: "shit up the crap that's the, not"
+    [02:41.503 - 02:45.132] VO/Dialogue: "rush up, but a flat brusher to your cranium, the colds automatic when"
+    [02:45.132 - 02:47.176] VO/Dialogue: "aiming on with the boy in the stead of the"
+    [02:47.176 - 02:49.428] VO/Dialogue: "stadium, baby"
+    [03:05.836 - 03:06.945] VO/Dialogue: "I'm madah,"
+    [03:06.945 - 03:09.573] VO/Dialogue: "madah, madah,"
+    [03:10.407 - 03:10.975] VO/Dialogue: "madah,"
+    [03:10.975 - 03:12.200] VO/Dialogue: "yo,"
+    [03:13.535 - 03:15.554] VO/Dialogue: "I'm madah,"
+    [03:15.554 - 03:17.122] VO/Dialogue: "click on only shit, I'm madah,"
+    [03:17.122 - 03:17.748] VO/Dialogue: "click"
+    [03:21.001 - 03:23.170] VO/Dialogue: "on you, hoes, I make a crime"
+    [03:23.170 - 03:23.921] VO/Dialogue: "scene,"
+    [03:23.921 - 03:25.422] VO/Dialogue: "I click the trigger on a stick"
+    [03:25.422 - 03:26.924] VO/Dialogue: "like a hoppin,"
+    [03:26.924 - 03:28.217] VO/Dialogue: "and I would been real"
+    [03:28.217 - 03:29.093] VO/Dialogue: "good when I were 19,"
+    [03:29.760 - 03:32.096] VO/Dialogue: "she called my number liba hangin', she got dry"
+    [03:32.096 - 03:34.039] VO/Dialogue: "clean, she got a hand, droid on"
+    [03:34.039 - 03:35.641] VO/Dialogue: "messages, it's my brain,"
+    [03:35.641 - 03:36.333] VO/Dialogue: "I search one"
+    [03:36.333 - 03:37.810] VO/Dialogue: "name at end of I'm in"
+    [03:37.810 - 03:39.228] VO/Dialogue: "2010s, Navy,"
+    [03:39.937 - 03:40.312] VO/Dialogue: "Christine,"
+    [03:40.687 - 03:41.063] VO/Dialogue: "Justin,"
+    [03:41.397 - 03:41.814] VO/Dialogue: "Kathleen,"
+    [03:42.189 - 03:44.358] VO/Dialogue: "Charlene, Pauline, Claudine"
+    [03:44.358 - 03:44.866] VO/Dialogue: "Man,"
+    [03:44.866 - 03:44.983] VO/Dialogue: "I"
+    [03:44.983 - 03:46.284] VO/Dialogue: "pack them in this phone like"
+    [03:46.284 - 03:46.652] VO/Dialogue: "some"
+    [03:46.652 - 03:47.110] VO/Dialogue: "sardines"
+    [03:47.110 - 03:47.903] VO/Dialogue: "And they"
+    [03:47.903 - 03:49.238] VO/Dialogue: "send me negative pictures, it's a"
+    [03:49.238 - 03:49.671] VO/Dialogue: "small"
+    [03:49.671 - 03:50.697] VO/Dialogue: "thing You need"
+    [03:50.697 - 03:52.533] VO/Dialogue: "to still take him pictures on a gall"
+    [03:52.533 - 03:53.224] VO/Dialogue: "string My"
+    [03:53.224 - 03:55.369] VO/Dialogue: "youngest rich today, you rappers in the"
+    [03:55.369 - 03:55.802] VO/Dialogue: "Austrian"
+    [03:55.802 - 03:56.495] VO/Dialogue: "I really"
+    [03:56.495 - 03:58.414] VO/Dialogue: "hate that you been selling them some fall"
+    [03:58.414 - 03:59.248] VO/Dialogue: "strings Man,"
+    [03:59.248 - 04:01.375] VO/Dialogue: "if your puddles up a cell, I buy the whole"
+    [04:01.375 - 04:02.376] VO/Dialogue: "thing But"
+    [04:02.376 - 04:04.336] VO/Dialogue: "they ever give me vowels with a hoist"
+    [04:04.336 - 04:05.170] VO/Dialogue: "I don't"
+    [04:05.170 - 04:05.963] VO/Dialogue: "wanna add"
+    [04:05.963 - 04:12.928] VO/Dialogue: "that talk, it's just a sore spot They know the boy that won it got a boycott...
+    [04:12.928 - 04:15.305] VO/Dialogue: "stop Girl give me some hair because I need"
+    [04:15.305 - 04:17.683] VO/Dialogue: "it And if I fuck with you that after I'm"
+    [04:17.683 - 04:21.603] VO/Dialogue: "like eating white This is talking about when this gonna be repeated What the...
+    [04:21.603 - 04:23.105] VO/Dialogue: "fuck bro, I wanna wait for"
+    [04:23.105 - 04:23.772] VO/Dialogue: "Michael, nigga"
+    [04:23.772 - 04:24.523] VO/Dialogue: "feed it nigga"
+    [04:24.523 - 04:25.357] VO/Dialogue: "feed it"
+    [04:25.357 - 04:26.108] VO/Dialogue: "white feed"
+    [04:27.609 - 04:28.944] VO/Dialogue: "white"
+    [04:28.944 - 04:29.778] VO/Dialogue: "feed it white feed"
+    [04:29.778 - 04:31.238] VO/Dialogue: "it white feed"
+    [04:31.238 - 04:32.489] VO/Dialogue: "it white"
+    [04:32.489 - 04:33.490] VO/Dialogue: "feed it white feed it white feed it white"
+    [04:58.865 - 04:59.808] VO/Dialogue: "No need to pay me back, no need to pay this all"
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: none
+  Empty values:   none
+  Shots with graphics overlays: 78
+

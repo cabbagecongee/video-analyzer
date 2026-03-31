@@ -1,0 +1,90 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       54
+  Duration covered:  47.4s
+  Video duration:    47.4s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=0.88s  median=0.58s  min=0.032s  max=5.43s
+
+  LIKELY FALSE CUTS (shots <80ms — probably not real shots):
+    Shot 3 at 00:03.596 (32ms)
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        33 █████████████████████████████████
+    handheld                       7 ███████
+    push in / dolly in             6 ██████
+    pan                            4 ████
+    tracking                       3 ███
+    zoom                           1 █
+
+  Movement variety: 6 distinct types
+  WARNING: 61.1% shots labeled static — likely over-reported
+
+  Shot type distribution:
+    close-up                       9
+    medium shot                    8
+    extreme close-up               7
+    medium close-up                7
+    wide                           6
+    medium                         5
+    medium wide                    4
+    extreme wide                   2
+    wide shot                      2
+    insert                         1
+    extreme wide shot              1
+    title card                     1
+    n/a (full screen color)        1
+
+  Angle distribution:
+    eye-level                     31
+    low angle                      9
+    high angle                     5
+    over-the-shoulder              2
+    bird's eye                     2
+    n/a (graphic)                  2
+    worm's eye                     1
+    eye-level (relative to the jet)   1
+    slightly high angle            1
+
+  Composition detail: avg 61.3 words/shot
+
+  STATIC SHOTS TO SPOT-CHECK (33 total — are these really static?):
+    Shot 1 at 00:00.000 (3.14s): A man in a blue shirt and dark trousers walks on a dirt road away from a vintage...
+    Shot 2 at 00:03.137 (0.46s): An intense extreme close-up of a person's blue eye. The detailed iris is the cen...
+    Shot 3 at 00:03.596 (0.03s): A very brief flash frame of an abstract, bright, cyan-colored light against a da...
+    Shot 4 at 00:03.628 (2.10s): Viewed from behind, a man in a dark suit sits at a desk in a dimly lit room with...
+    Shot 6 at 00:07.549 (0.29s): A close-up shot from inside the cockpit of a race car. A driver, wearing a full-...
+    Shot 7 at 00:07.841 (0.54s): An aerial, bird's-eye view of a sprawling city at night. The shot begins dark, a...
+    Shot 9 at 00:08.959 (0.77s): This is a screen capture of a financial trading interface. The background is bla...
+    Shot 10 at 00:09.727 (0.53s): This is another screen capture of a financial trading interface, similar to the ...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    0/54 (0.0%)
+
+  ALL AUDIO (skim for accuracy):
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: {'focus': 1}
+  Empty values:   none
+  Shots with graphics overlays: 21
+

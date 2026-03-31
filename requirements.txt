@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+scenedetect[opencv]
+opencv-python-headless
+openai-whisper
+numpy
+Pillow

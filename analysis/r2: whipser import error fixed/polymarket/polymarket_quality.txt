@@ -1,0 +1,141 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       54
+  Duration covered:  47.4s
+  Video duration:    47.4s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=0.88s  median=0.58s  min=0.032s  max=5.43s
+
+  LIKELY FALSE CUTS (shots <80ms — probably not real shots):
+    Shot 3 at 00:03.596 (32ms)
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        23 ███████████████████████
+    push in / dolly in            12 ████████████
+    unknown                        6 ██████
+    pan                            5 █████
+    tracking                       3 ███
+    handheld                       2 ██
+    other: the shot fades in from black,    1 █
+    other: the rapid camera movement from   1 █
+    other: the camera is mounted to the r   1 █
+
+  Movement variety: 9 distinct types
+
+  Shot type distribution:
+    close-up                      13
+    medium shot                    9
+    extreme close-up               6
+    unknown                        6
+    wide shot                      4
+    extreme wide                   3
+    medium                         3
+    medium wide                    3
+    medium wide shot               3
+    pov                            1
+    wide                           1
+    medium close-up                1
+    extreme wide shot              1
+
+  Angle distribution:
+    eye-level                     34
+    low angle                      6
+    unknown                        6
+    high angle                     5
+    pov                            1
+    bird's eye                     1
+    over-the-shoulder              1
+
+  Composition detail: avg 55.5 words/shot
+  THIN COMPOSITIONS (6 shots — not enough detail to recreate):
+    Shot 49 at 00:38.272 (5 words): "Analysis failed - batch error..."
+    Shot 50 at 00:38.538 (5 words): "Analysis failed - batch error..."
+    Shot 51 at 00:38.756 (5 words): "Analysis failed - batch error..."
+    Shot 52 at 00:39.122 (5 words): "Analysis failed - batch error..."
+    Shot 53 at 00:41.884 (5 words): "Analysis failed - batch error..."
+
+  STATIC SHOTS TO SPOT-CHECK (23 total — are these really static?):
+    Shot 2 at 00:03.137 (0.46s): A tight, visceral shot of an older person's blue eye. The surrounding skin is wr...
+    Shot 3 at 00:03.596 (0.03s): This is a very brief flash frame of an abstract, bright, bluish-white light agai...
+    Shot 4 at 00:03.628 (2.10s): Viewed from behind, a man in a dark suit sits at a polished desk in front of a l...
+    Shot 5 at 00:05.723 (1.83s): This is grainy, archival footage of a boxing match. A boxer in red shorts and wh...
+    Shot 6 at 00:07.549 (0.29s): A tight shot of a race car driver inside the dark cockpit of a car. The driver, ...
+    Shot 9 at 00:08.959 (0.77s): This is a screen capture of a news graphic for the NYC Mayoral Race. The graphic...
+    Shot 10 at 00:09.727 (0.53s): The shot is identical in framing and composition to the previous one, but the po...
+    Shot 11 at 00:10.260 (1.17s): This shot continues the animated sequence of the NYC Mayoral Race poll graphic. ...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    38/54 (70.4%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 8 at 00:08.383 (0.58s, 5.2 words/sec): "VO/Dialogue: "universe becomes""
+    Shot 10 at 00:09.727 (0.53s, 5.6 words/sec): "VO/Dialogue: "Hey, coin!""
+    Shot 11 at 00:10.260 (1.17s, 5.1 words/sec): "VO/Dialogue: "I would never trust this!""
+    Shot 12 at 00:11.428 (0.47s, 6.4 words/sec): "VO/Dialogue: "The future""
+    Shot 15 at 00:13.564 (0.53s, 7.5 words/sec): "VO/Dialogue: "a place where""
+
+  ALL AUDIO (skim for accuracy):
+    [00:00.000 - 00:03.137] VO/Dialogue: "The future is not some place we're going to,"
+    [00:03.628 - 00:05.723] VO/Dialogue: "but one we're creating."
+    [00:05.723 - 00:07.549] VO/Dialogue: "Every decision is a bet"
+    [00:07.841 - 00:08.383] VO/Dialogue: "which"
+    [00:08.383 - 00:08.959] VO/Dialogue: "universe becomes"
+    [00:08.959 - 00:09.727] VO/Dialogue: "real."
+    [00:09.727 - 00:10.260] VO/Dialogue: "Hey, coin!"
+    [00:10.260 - 00:11.428] VO/Dialogue: "I would never trust this!"
+    [00:11.428 - 00:11.896] VO/Dialogue: "The future"
+    [00:11.896 - 00:12.679] VO/Dialogue: "of internet"
+    [00:12.679 - 00:13.564] VO/Dialogue: "markets is"
+    [00:13.564 - 00:14.097] VO/Dialogue: "a place where"
+    [00:14.097 - 00:14.607] VO/Dialogue: "you can"
+    [00:14.607 - 00:15.191] VO/Dialogue: "capitalize"
+    [00:15.191 - 00:16.192] VO/Dialogue: "on any outcome."
+    [00:16.192 - 00:17.193] VO/Dialogue: "Any"
+    [00:17.193 - 00:18.194] VO/Dialogue: "prediction from"
+    [00:18.194 - 00:20.196] VO/Dialogue: "anywhere in the world."
+    [00:20.196 - 00:21.614] VO/Dialogue: "The"
+    [00:21.614 - 00:21.980] VO/Dialogue: "greatest"
+    [00:21.980 - 00:22.522] VO/Dialogue: "fortunes"
+    [00:22.522 - 00:23.015] VO/Dialogue: "weren't"
+    [00:23.115 - 00:23.440] VO/Dialogue: "built on"
+    [00:23.732 - 00:25.025] VO/Dialogue: "certainty. Good afternoon."
+    [00:25.025 - 00:26.026] VO/Dialogue: "They were built on"
+    [00:26.026 - 00:27.036] VO/Dialogue: "conviction."
+    [00:27.578 - 00:28.162] VO/Dialogue: "And"
+    [00:28.162 - 00:29.404] VO/Dialogue: "I have been familiar by"
+    [00:29.404 - 00:30.331] VO/Dialogue: "the attention from all"
+    [00:30.331 - 00:31.114] VO/Dialogue: "over the world."
+    [00:31.114 - 00:31.807] VO/Dialogue: "We're 23."
+    [00:31.807 - 00:32.449] VO/Dialogue: "And"
+    [00:32.449 - 00:32.699] VO/Dialogue: "we'll"
+    [00:32.699 - 00:33.459] VO/Dialogue: "never be here."
+    [00:34.409 - 00:35.336] VO/Dialogue: "Look what happened."
+    [00:38.756 - 00:39.122] VO/Dialogue: "The"
+    [00:39.122 - 00:41.884] VO/Dialogue: "universe rewards those who"
+    [00:41.884 - 00:47.314] VO/Dialogue: "see what hasn't happened yet."
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: {'cut': 6, 'shotType': 6, 'angle': 6, 'lens': 6, 'focus': 6, 'movement': 6}
+  Empty values:   none
+  Shots with graphics overlays: 19
+

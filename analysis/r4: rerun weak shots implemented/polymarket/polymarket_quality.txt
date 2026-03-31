@@ -1,0 +1,156 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       54
+  Duration covered:  47.4s
+  Video duration:    47.4s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=0.88s  median=0.58s  min=0.032s  max=5.43s
+
+  LIKELY FALSE CUTS (shots <80ms — probably not real shots):
+    Shot 3 at 00:03.596 (32ms)
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        27 ███████████████████████████
+    handheld                       6 ██████
+    push in / dolly in             6 ██████
+    pan                            4 ████
+    tilt                           3 ███
+    tracking                       3 ███
+    other: the camera has a subtle, jitte   1 █
+    other: a fast, sweeping arc movement    1 █
+    other: rapid forward movement with in   1 █
+    pull out / dolly back          1 █
+    other: slight camera shake, simulatin   1 █
+
+  Movement variety: 11 distinct types
+
+  Shot type distribution:
+    close-up                      10
+    medium shot                   10
+    extreme close-up               7
+    medium close-up                5
+    medium                         4
+    wide shot                      4
+    extreme wide                   3
+    medium wide                    3
+    extreme wide shot              2
+    wide                           2
+    graphic                        2
+    medium wide shot               1
+    insert                         1
+
+  Angle distribution:
+    eye-level                     31
+    high angle                    11
+    low angle                      6
+    n/a                            2
+    worm's eye                     1
+    low angle, dutch/tilted        1
+    pov                            1
+    over-the-shoulder              1
+
+  Composition detail: avg 53.8 words/shot
+  THIN COMPOSITIONS (1 shots — not enough detail to recreate):
+    Shot 48 at 00:37.922 (9 words): "A plain black screen with white, sans-serif text centered...."
+
+  STATIC SHOTS TO SPOT-CHECK (27 total — are these really static?):
+    Shot 1 at 00:00.000 (3.14s): A man in a blue shirt and dark pants walks on a dirt road away from a vintage wh...
+    Shot 2 at 00:03.137 (0.46s): A tight shot of a human eye. The iris is a detailed blue, and the surrounding sk...
+    Shot 3 at 00:03.596 (0.03s): A very brief flash frame of a bright, blurry, bluish-white light against a dark ...
+    Shot 4 at 00:03.628 (2.10s): Viewed from behind, a man in a dark suit sits at a modern desk with two open lap...
+    Shot 12 at 00:11.428 (0.47s): A tight shot of a financial trading screen. On the left, a candlestick chart wit...
+    Shot 13 at 00:11.896 (0.78s): Similar to the previous shot, this is a close-up of the financial trading screen...
+    Shot 15 at 00:13.564 (0.53s): A full-screen election results graphic from Fox News. The top third features the...
+    Shot 16 at 00:14.097 (0.51s): This shot is visually identical to the previous one, holding on the Fox News ele...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    54/54 (100.0%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 1 at 00:00.000 (3.14s, 5.7 words/sec): "VO/Dialogue: "The future is not some place we are going to," | Music/SFX: Gentle, atmospheric synthe..."
+    Shot 2 at 00:03.137 (0.46s, 24.0 words/sec): "Music/SFX: The atmospheric music continues, with a low, subtle hum added."
+    Shot 3 at 00:03.596 (0.03s, 375.0 words/sec): "Music/SFX: A loud, impactful bass thump and a quick whoosh sound effect."
+    Shot 4 at 00:03.628 (2.10s, 8.6 words/sec): "VO/Dialogue: "but one we are creating." | Music/SFX: The atmospheric synthesizer music continues wit..."
+    Shot 5 at 00:05.723 (1.83s, 14.2 words/sec): "VO/Dialogue: "Every decision is a bet" | Music/SFX: The music continues, mixed with the faint sounds..."
+
+  ALL AUDIO (skim for accuracy):
+    [00:00.000 - 00:03.137] VO/Dialogue: "The future is not some place we are going to," | Music/SFX: Gentle, atmosphe...
+    [00:03.137 - 00:03.596] Music/SFX: The atmospheric music continues, with a low, subtle hum added.
+    [00:03.596 - 00:03.628] Music/SFX: A loud, impactful bass thump and a quick whoosh sound effect.
+    [00:03.628 - 00:05.723] VO/Dialogue: "but one we are creating." | Music/SFX: The atmospheric synthesizer music con...
+    [00:05.723 - 00:07.549] VO/Dialogue: "Every decision is a bet" | Music/SFX: The music continues, mixed with the fa...
+    [00:07.549 - 00:07.841] Music/SFX: The music swells in intensity.
+    [00:07.841 - 00:08.383] VO/Dialogue: "which" | Music/SFX: A powerful whoosh sound effect accompanies the reveal of...
+    [00:08.383 - 00:08.959] VO/Dialogue: "universe becomes" | Music/SFX: A fast, futuristic whoosh or data-processing ...
+    [00:08.959 - 00:09.727] VO/Dialogue: "real." | Music/SFX: Rapid ticking sound effect layered with a rising, tense ...
+    [00:09.727 - 00:10.260] VO/Dialogue: "I" | Music/SFX: Rapid ticking sound effect and rising synthesizer score cont...
+    [00:10.260 - 00:11.428] VO/Dialogue: "would never trust this." | Music/SFX: The ticking sound effect and rising sy...
+    [00:11.428 - 00:11.896] VO/Dialogue: "The future" | Music/SFX: Digital data processing sound effects and a continu...
+    [00:11.896 - 00:12.679] VO/Dialogue: "of internet" | Music/SFX: Digital data processing sound effects and a contin...
+    [00:12.679 - 00:13.564] VO/Dialogue: "markets is" | Music/SFX: Loud whoosh sound effect combined with a dramatic m...
+    [00:13.564 - 00:14.097] VO/Dialogue: "a place where" | Music/SFX: Dramatic, orchestral news-style music continues.
+    [00:14.097 - 00:14.607] VO/Dialogue: "you can" | Music/SFX: Dramatic, orchestral news-style music continues with a...
+    [00:14.607 - 00:15.191] VO/Dialogue: "capitalize" | Music/SFX: Uplifting, ambient synth music begins.
+    [00:15.191 - 00:16.192] VO/Dialogue: "on any outcome," | Music/SFX: Uplifting synth music continues.
+    [00:16.192 - 00:17.193] VO/Dialogue: "any" | Music/SFX: Synth music continues.
+    [00:17.193 - 00:18.194] VO/Dialogue: "prediction from" | Music/SFX: Synth music continues, with a subtle high-pitc...
+    [00:18.194 - 00:20.196] VO/Dialogue: "anywhere in the world." | Music/SFX: Atmospheric synth music continues, with...
+    [00:20.196 - 00:21.614] VO/Dialogue: "The" | Music/SFX: Atmospheric synth music continues.
+    [00:21.614 - 00:21.980] VO/Dialogue: "greatest" | Music/SFX: Synth music continues, layered with the fast, rhythmi...
+    [00:21.980 - 00:22.522] VO/Dialogue: "fortunes" | Music/SFX: Music swells to a crescendo. The sound of the champag...
+    [00:22.522 - 00:23.015] VO/Dialogue: "weren't" | Music/SFX: A low, continuous synth pad plays in the background.
+    [00:23.015 - 00:23.115] Music/SFX: A rapid paper shuffling/whoosh sound effect. The synth pad continues underneath...
+    [00:23.115 - 00:23.440] VO/Dialogue: "built on" | Music/SFX: The low synth pad continues.
+    [00:23.440 - 00:23.732] Music/SFX: The synth pad continues, possibly with a slight build in intensity.
+    [00:23.732 - 00:25.025] VO/Dialogue: "certainty. Good afternoon." | Music/SFX: The synth music swells, becoming mo...
+    [00:25.025 - 00:26.026] VO/Dialogue: "They were built on" | Music/SFX: Loud, roaring sound effect of a rocket engi...
+    [00:26.026 - 00:27.036] VO/Dialogue: "conviction." | Music/SFX: The triumphant, swelling music continues. A subtle...
+    [00:27.036 - 00:27.578] Music/SFX: The triumphant music reaches a crescendo, mixed with the diegetic sounds of a l...
+    [00:27.578 - 00:28.162] Music/SFX: Deep, powerful rumble of rocket engines igniting.
+    [00:28.162 - 00:29.404] Music/SFX: Sustained, powerful roar of rocket engines mixed with a rising, epic orchestral...
+    [00:29.404 - 00:30.331] VO/Dialogue: "Look" | Music/SFX: Sound of a cheering crowd and indistinct chatter. An upli...
+    [00:30.331 - 00:31.114] Music/SFX: Loud roar of a large crowd, mixed with an intense, driving beat.
+    [00:31.114 - 00:31.807] Music/SFX: Loud, continuous roar of an arena crowd.
+    [00:31.807 - 00:32.449] Music/SFX: Continued loud crowd roar, music swells.
+    [00:32.449 - 00:32.699] Music/SFX: Loud explosion sound from pyrotechnics, a massive crowd cheer, and triumphant, ...
+    [00:32.699 - 00:33.459] Music/SFX: More loud pyrotechnic explosions, intense crowd cheering, and the triumphant mu...
+    [00:33.459 - 00:34.409] Music/SFX: Tense, dramatic news-style underscore music. Sounds of a loud, chaotic crowd.
+    [00:34.409 - 00:35.336] VO/Dialogue: "happened." | Music/SFX: The tense underscore music continues and builds in i...
+    [00:35.336 - 00:35.628] Music/SFX: A loud, impactful punch sound effect is layered over the building music.
+    [00:35.628 - 00:36.119] Music/SFX: Loud, excited yelling from the commentators mixed with a roaring crowd. The ten...
+    [00:36.119 - 00:36.754] Music/SFX: Loud roar of a jet engine and a whoosh sound effect as it flies past. The music...
+    [00:36.754 - 00:37.338] Music/SFX: A high-pitched, tense synth tone or engine whine. The music continues its cresc...
+    [00:37.338 - 00:37.922] Music/SFX: A powerful, climactic musical swell combined with the loud roar of a cheering c...
+    [00:37.922 - 00:38.272] Music/SFX: A final, resonant musical chord that cuts off abruptly.
+    [00:38.272 - 00:38.538] Music/SFX: Fast-paced, rhythmic electronic music.
+    [00:38.538 - 00:38.756] Music/SFX: The fast-paced electronic music continues.
+    [00:38.756 - 00:39.122] Music/SFX: The fast-paced electronic music continues, possibly with a subtle whoosh SFX on...
+    [00:39.122 - 00:41.884] VO/Dialogue: "universe rewards those who" | Music/SFX: The music transitions to a swelling...
+    [00:41.884 - 00:47.314] VO/Dialogue: "see what hasn't happened yet." | Music/SFX: The music shifts to a calm, ambi...
+    [00:47.314 - 00:47.424] Music/SFX: A final, subtle electronic sound effect.
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: {'lens': 3, 'angle': 2, 'focus': 2}
+  Empty values:   none
+  Shots with graphics overlays: 24
+

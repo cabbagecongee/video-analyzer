@@ -1,0 +1,32 @@
+# Environment
+.env
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Analysis outputs
+# analysis/
+
+# Temp files from pipeline
+/tmp/keyframes/
+/tmp/clips/
+videos/*_audio.wav
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/cabbagecongee/video-analyzer.git
+git branch -M main
+git push -u origin main
