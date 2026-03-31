@@ -1,0 +1,198 @@
+
+======================================================================
+  SHOT ANALYSIS QUALITY REPORT
+  (aligned to evaluation criteria)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 1: Shot boundaries line up with real cuts
+──────────────────────────────────────────────────────────────────────
+  Total shots:       99
+  Duration covered:  90.0s
+  Video duration:    90.0s
+  Coverage:          100.0%
+  Starts at zero:    PASS
+  Gaps:              0  PASS
+  Overlaps:          0  PASS
+
+  Shot durations:  avg=0.91s  median=0.76s  min=0.173s  max=4.41s
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 2: Motion / angle / shot type correct
+──────────────────────────────────────────────────────────────────────
+
+  Movement distribution:
+    static                        61 ████████████████████████████████████████
+    handheld                      13 █████████████
+    push in / dolly in            11 ███████████
+    pan                            4 ████
+    tilt                           2 ██
+    pull out / dolly back          2 ██
+    steadicam                      2 ██
+    other: smooth forward movement, as if   1 █
+    tracking                       1 █
+    other: the shot contains internal ani   1 █
+    other: slow orbital move to the left,   1 █
+
+  Movement variety: 11 distinct types
+  WARNING: 61.6% shots labeled static — likely over-reported
+
+  Shot type distribution:
+    extreme close-up              20
+    close-up                      19
+    wide                          15
+    medium shot                   12
+    medium close-up                7
+    extreme wide                   6
+    medium                         6
+    wide shot                      6
+    medium wide                    3
+    extreme wide shot              2
+    medium wide shot               2
+    n/a (text card)                1
+
+  Angle distribution:
+    eye-level                     54
+    high angle                    22
+    low angle                      9
+    bird's eye                     3
+    slightly high angle            3
+    over-the-shoulder              3
+    worm's eye                     2
+    n/a (abstract)                 1
+    eye-level (to the screen)      1
+    n/a (text card)                1
+
+  Composition detail: avg 62.1 words/shot
+
+  STATIC SHOTS TO SPOT-CHECK (61 total — are these really static?):
+    Shot 1 at 00:00.000 (1.12s): Against a pure black background, a green rectangular bar appears. The bar is a t...
+    Shot 2 at 00:01.120 (0.80s): A man in a dark blazer and light-colored trousers stands with his hands in his p...
+    Shot 3 at 00:01.920 (0.84s): A macro shot of a typewriter striking paper. We see the word "Problems" being ty...
+    Shot 4 at 00:02.760 (0.68s): Looking down into a body of dark, still water. A clear reflection of a woman wit...
+    Shot 5 at 00:03.440 (0.68s): A close-up of a vintage, off-white drip coffee maker. The glass carafe is about ...
+    Shot 6 at 00:04.120 (0.32s): This is a bird's-eye view of a person kneeling on a dark, herringbone-patterned ...
+    Shot 8 at 00:05.120 (0.52s): This is a shot of a retro computer desktop. The wallpaper is a blue sky with sof...
+    Shot 10 at 00:06.120 (0.76s): The shot is a static close-up of the computer screen, focused on the lower right...
+
+──────────────────────────────────────────────────────────────────────
+  CRITERION 3: Audio text accurate to what is said
+──────────────────────────────────────────────────────────────────────
+  Shots with audio:    99/99 (100.0%)
+
+  POSSIBLY MISALIGNED AUDIO (too many words for shot duration):
+    Shot 1 at 00:00.000 (1.12s, 8.0 words/sec): "Music/SFX: Sound of a teletype machine or dot-matrix printer."
+    Shot 2 at 00:01.120 (0.80s, 8.8 words/sec): "Music/SFX: The teletype sound effect fades out."
+    Shot 3 at 00:01.920 (0.84s, 17.9 words/sec): "Music/SFX: The distinct, sharp sound of a manual typewriter key striking paper for each letter."
+    Shot 4 at 00:02.760 (0.68s, 11.8 words/sec): "Music/SFX: The sound of a typewriter key striking."
+    Shot 5 at 00:03.440 (0.68s, 14.7 words/sec): "Music/SFX: A low, subtle humming sound, like an appliance running."
+
+  ALL AUDIO (skim for accuracy):
+    [00:00.000 - 00:01.120] Music/SFX: Sound of a teletype machine or dot-matrix printer.
+    [00:01.120 - 00:01.920] Music/SFX: The teletype sound effect fades out.
+    [00:01.920 - 00:02.760] Music/SFX: The distinct, sharp sound of a manual typewriter key striking paper for each le...
+    [00:02.760 - 00:03.440] Music/SFX: The sound of a typewriter key striking.
+    [00:03.440 - 00:04.120] Music/SFX: A low, subtle humming sound, like an appliance running.
+    [00:04.120 - 00:04.440] Music/SFX: A low, distorted, rumbling sound continues, mixed with a faint, high-pitched el...
+    [00:04.440 - 00:05.120] Music/SFX: The low, rumbling sound and high electronic tone persist.
+    [00:05.120 - 00:05.640] Music/SFX: A digital, static-like glitch sound is added to the continuous low rumbling and...
+    [00:05.640 - 00:06.120] Music/SFX: A loud, sharp whoosh sound effect punctuates the rapid camera movement, layered...
+    [00:06.120 - 00:06.880] Music/SFX: A digital clicking and dragging sound effect is heard. The low, rumbling ambien...
+    [00:06.880 - 00:07.400] Music/SFX: Low, rumbling synth drone.
+    [00:07.400 - 00:07.840] Music/SFX: Low, rumbling synth drone continues.
+    [00:07.840 - 00:08.320] Music/SFX: Low synth drone continues.
+    [00:08.320 - 00:08.880] Music/SFX: Low synth drone continues.
+    [00:08.880 - 00:09.360] Music/SFX: Low synth drone continues.
+    [00:09.360 - 00:09.840] Music/SFX: A low, tense, slightly distorted synth pad continues.
+    [00:09.840 - 00:10.280] Music/SFX: The tense synth pad continues. The sound of a marker scratching on paper is aud...
+    [00:10.280 - 00:10.720] Music/SFX: The tense synth pad continues.
+    [00:10.720 - 00:11.200] Music/SFX: The tense synth pad continues, along with the sound of the marker scratching on...
+    [00:11.200 - 00:11.800] Music/SFX: The tense synth pad continues and swells slightly. A single, dissonant piano no...
+    [00:11.800 - 00:12.560] Music/SFX: Tense, rising synth score. A subtle whoosh sound effect accompanies the camera ...
+    [00:12.560 - 00:13.160] Music/SFX: The tense synth score continues. Muffled sound of footsteps and indistinct room...
+    [00:13.160 - 00:13.680] Music/SFX: The tense synth score continues, accompanied by a swish sound effect.
+    [00:13.680 - 00:14.200] Music/SFX: A low, ominous synth drone continues.
+    [00:14.200 - 00:14.720] Music/SFX: The tense synth score swells. A low, deep rumbling sound effect, like a powerfu...
+    [00:14.720 - 00:15.360] Music/SFX: A low, tense ambient drone continues, with a subtle high-pitched electronic ton...
+    [00:15.360 - 00:15.920] Music/SFX: The tense drone continues, joined by a subtle electronic whirring sound.
+    [00:15.920 - 00:16.480] Music/SFX: The tense drone and electronic whirring continue.
+    [00:16.480 - 00:17.000] Music/SFX: The tense drone continues, possibly swelling slightly in volume.
+    [00:17.000 - 00:17.480] Music/SFX: The tense drone continues, now accompanied by the sound of electrical crackling...
+    [00:17.480 - 00:17.920] Music/SFX: Tense, rising synth drone.
+    [00:17.920 - 00:18.440] Music/SFX: The tense synth drone continues and builds slightly in intensity.
+    [00:18.440 - 00:18.760] Music/SFX: A loud, discordant piano crash sound effect begins.
+    [00:18.760 - 00:19.160] Music/SFX: The cacophonous sound of a piano crashing and breaking continues at high volume...
+    [00:19.160 - 00:19.640] Music/SFX: The piano crash SFX cuts off abruptly. A low, humming electronic tone begins.
+    [00:19.640 - 00:19.960] Music/SFX: A gentle, ambient synth pad plays. A soft whoosh sound effect.
+    [00:19.960 - 00:22.320] VO/Dialogue: "There's never been a worse time. There's never been a better time." | Music/...
+    [00:22.320 - 00:23.280] Music/SFX: The ambient synth pad continues. Soft, subtle tapping sound effects correspond ...
+    [00:23.280 - 00:24.040] VO/Dialogue: "A better" | Music/SFX: The ambient synth pad continues.
+    [00:24.040 - 00:25.240] VO/Dialogue: "time never problem." | Music/SFX: The ambient synth pad continues. Soft tapp...
+    [00:25.240 - 00:26.240] Music/SFX: Uplifting, atmospheric synth music.
+    [00:26.240 - 00:26.880] Music/SFX: Music continues. Faint mechanical clicking sound effect.
+    [00:26.880 - 00:27.920] VO/Dialogue: "To be" | Music/SFX: Music continues. Faint ambient sounds of a workshop.
+    [00:27.920 - 00:29.320] VO/Dialogue: "stuck," | Music/SFX: Music continues, becoming slightly more pensive.
+    [00:29.320 - 00:30.160] VO/Dialogue: "to be" | Music/SFX: Music continues. A faint, low electronic hum.
+    [00:30.160 - 00:31.400] VO/Dialogue: "overwhelmed," | Music/SFX: Upbeat, rhythmic electronic music continues.
+    [00:31.400 - 00:31.960] VO/Dialogue: "to be" | Music/SFX: Upbeat electronic music continues. A soft digital typing...
+    [00:31.960 - 00:32.960] VO/Dialogue: "impatient," | Music/SFX: Upbeat electronic music continues. A soft digital '...
+    [00:32.960 - 00:33.960] VO/Dialogue: "to" | Music/SFX: The upbeat electronic music continues.
+    [00:33.960 - 00:34.560] Music/SFX: The electronic music cuts out. A gentle, ambient synth pad fades in.
+    [00:34.560 - 00:35.520] Music/SFX: Rhythmic, atmospheric electronic music begins.
+    [00:35.520 - 00:36.200] Music/SFX: Rhythmic electronic music continues.
+    [00:36.200 - 00:36.987] VO/Dialogue: "out of" | Music/SFX: Rhythmic electronic music continues, with a subtle whoo...
+    [00:36.987 - 00:37.160] Music/SFX: Rhythmic electronic music continues.
+    [00:37.160 - 00:38.480] VO/Dialogue: "how to" | Music/SFX: Upbeat, rhythmic electronic music continues. The ambien...
+    [00:38.480 - 00:39.600] VO/Dialogue: "your depth," | Music/SFX: The electronic music continues, and a low, resonan...
+    [00:39.600 - 00:40.840] Music/SFX: The rhythmic electronic music continues.
+    [00:40.840 - 00:41.600] VO/Dialogue: "how" | Music/SFX: The electronic music continues with a steady beat. The sou...
+    [00:41.600 - 00:42.560] VO/Dialogue: "to breath." | Music/SFX: The electronic music continues. The low rumble of t...
+    [00:42.560 - 00:44.960] VO/Dialogue: "There's never been a better" | Music/SFX: Low, ambient, atmospheric synth dr...
+    [00:44.960 - 00:45.760] VO/Dialogue: "time than a" | Music/SFX: Ambient synth drone continues.
+    [00:45.760 - 00:46.000] VO/Dialogue: "medical" | Music/SFX: Ambient synth drone continues, possibly with a subtle ...
+    [00:46.000 - 00:46.840] VO/Dialogue: "condition. Just" | Music/SFX: Ambient synth drone continues.
+    [00:46.840 - 00:47.600] VO/Dialogue: "look at the" | Music/SFX: The synth drone continues but is now accompanied b...
+    [00:47.600 - 00:48.520] VO/Dialogue: "research being done." | Music/SFX: Upbeat rock music with a driving drum bea...
+    [00:48.520 - 00:49.680] VO/Dialogue: "To" | Music/SFX: The rock music continues, with a low electronic hum layered...
+    [00:49.680 - 00:51.520] VO/Dialogue: "have no qualifications," | Music/SFX: The rock music continues, now mixed wi...
+    [00:51.520 - 00:52.440] VO/Dialogue: "no resources." | Music/SFX: The rock music continues, overlaid with the loud...
+    [00:52.440 - 00:53.120] Music/SFX: The rock music swells in intensity, and the rocket whoosh sound effect continue...
+    [00:53.120 - 00:54.160] Music/SFX: Faint, ethereal synth pad.
+    [00:54.160 - 00:54.920] Music/SFX: A sharp electronic 'zap' or 'whoosh' sound effect marks the beginning of the sh...
+    [00:54.920 - 00:55.600] Music/SFX: Ethereal synth pad continues.
+    [00:55.600 - 00:57.120] VO/Dialogue: "To not understand," | Music/SFX: The ethereal synth pad continues, holding a...
+    [00:57.120 - 00:58.320] VO/Dialogue: "feel" | Music/SFX: The ethereal synth pad continues and swells slightly in v...
+    [00:58.320 - 00:59.640] VO/Dialogue: "insignificant." | Music/SFX: Upbeat, rhythmic electronic music with synth me...
+    [00:59.640 - 01:01.000] Music/SFX: Electronic music continues with a steady beat and synth arpeggios.
+    [01:01.000 - 01:01.640] Music/SFX: Electronic music continues.
+    [01:01.640 - 01:02.360] VO/Dialogue: "If" | Music/SFX: Electronic music continues with a swelling synth pad.
+    [01:02.360 - 01:03.120] VO/Dialogue: "you're restless," | Music/SFX: The driving electronic music continues.
+    [01:03.120 - 01:04.360] Music/SFX: Upbeat, jazzy instrumental music with a prominent bassline and piano.
+    [01:04.360 - 01:05.560] VO/Dialogue: "right" | Music/SFX: The upbeat, jazzy instrumental music continues.
+    [01:05.560 - 01:08.240] VO/Dialogue: "now the building has never been a better time." | Music/SFX: The jazzy instr...
+    [01:08.240 - 01:09.240] Music/SFX: The jazzy instrumental music continues.
+    [01:09.240 - 01:10.880] Music/SFX: The jazzy music continues, accompanied by a subtle scratching sound effect.
+    [01:10.880 - 01:11.480] Music/SFX: Upbeat, rhythmic electronic music with a steady beat.
+    [01:11.480 - 01:12.160] Music/SFX: The upbeat, rhythmic electronic music continues from the previous shot.
+    [01:12.160 - 01:12.880] Music/SFX: The upbeat, rhythmic electronic music continues.
+    [01:12.880 - 01:13.480] Music/SFX: The upbeat, rhythmic electronic music continues.
+    [01:13.480 - 01:14.160] Music/SFX: The upbeat, rhythmic electronic music continues and fades out slightly at the e...
+    [01:14.160 - 01:14.760] Music/SFX: Gentle, melodic piano music continues.
+    [01:14.760 - 01:15.440] Music/SFX: Gentle, melodic piano music continues.
+    [01:15.440 - 01:16.240] Music/SFX: The piano music fades out as a new, upbeat electronic track with a distinct bea...
+    [01:16.240 - 01:18.080] Music/SFX: The upbeat electronic track continues.
+    [01:18.080 - 01:20.080] Music/SFX: The upbeat electronic track continues, accompanied by the sound of birds' wings...
+    [01:20.080 - 01:21.320] Music/SFX: Gentle, melodic synthesizer music continues. Ambient, watery sounds and soft, d...
+    [01:21.320 - 01:22.560] Music/SFX: Swelling orchestral music continues and builds. A subtle whoosh sound effect ac...
+    [01:22.560 - 01:23.720] Music/SFX: The orchestral music continues and swells, while a subtle electronic beat and s...
+    [01:23.720 - 01:25.640] VO/Dialogue: "There's never been" | Music/SFX: Gentle, ambient electronic music continues....
+    [01:25.640 - 01:30.048] VO/Dialogue: "a better time than a medical condition."
+
+──────────────────────────────────────────────────────────────────────
+  Field completeness
+──────────────────────────────────────────────────────────────────────
+  Missing fields: all present
+  Unknown values: none
+  Empty values:   none
+  Shots with graphics overlays: 47
+
